@@ -32,7 +32,6 @@
 // @homepageURL  https://iwoozie.baby
 // @supportURL   https://discord.gg/uxCB83JG86
 // @run-at       document-body
-// ==/UserScript==
 
 (function () {
   'use strict';
