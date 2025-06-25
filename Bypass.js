@@ -1,16 +1,4 @@
 // ==UserScript==
-//  ███████╗███████╗    █████╗    ██████╗
-//  ██╔════╝██╔════╝   ██╔══██╗   ██╔══██╗
-//  █████╗  █████╗     ███████║   ██████╔╝
-//  ██╔══╝  ██╔══╝     ██╔══██║   ██╔══██╗
-//  ██║██╗  ███████╗██╗██║  ██║██╗██║  ██║
-//  ╚═╝╚═╝  ╚══════╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-// Forcefully Eliminating Advertising Redirects
-// by iWoozy_Real - OPEN SOURCE - V1.6
-// Discord Server : https://iwoozie.baby/ds
-// "Un tabaco no hace que un sapo que vuelva un capo y un revolver no hace que un muchacho se haga un macho" - Canserbero
-
-// ==UserScript==
 // @name         F.E.A.R. V1.6
 // @namespace    ⃟⃞⃟⃞  -THE NOTORIUS Ⱳ.Ø.Ẓ̣̣ ✞
 // @version      1.6
